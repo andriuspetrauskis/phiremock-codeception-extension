@@ -28,7 +28,7 @@
     "license" : "GPL-3.0-or-later",
     "require" : {
         "php" : ">=5.6",
-        "mcustiel/phiremock": "^1.7",
+        "phiremock/phiremock": "^1.8",
         "codeception/codeception" : "^2.2",
         "symfony/process": "^3.1|^2.7.15|^4.0"
     }
